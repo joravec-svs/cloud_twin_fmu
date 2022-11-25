@@ -1,0 +1,8 @@
+__pycache__/
+ *.pyc
+.spyproject/
+.idea/
+.vscode/
+.idea/
+migrations/
+client_tb.py
