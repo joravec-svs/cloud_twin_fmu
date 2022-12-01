@@ -2,7 +2,7 @@
 
     Type: Product
     Responsible: Jakub Oravec
-    Description: cloud web app for computing of fmu of digital twins
+    Description: cloud app for computing of fmu of digital twins
     Platform: Python 3.10.0
     Participants: -
     Customer/License: free
