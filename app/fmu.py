@@ -5,7 +5,7 @@ import pkg_resources
 class Fmu():
     def __init__(self,name,inputs,outputs,start_time,stop_time,step_size,output_interval):
         self.name = name
-        self.filename = pkg_resources.resource_filename('app',f"static\{self.name}")
+        self.filename = pkg_resources.resource_filename('app',f"static/{self.name}")
         self.inputs = inputs
         self.outputs = outputs
         self.start_time = start_time
